@@ -1,0 +1,12 @@
+# Bitcoin Testnet is Now Live on OWallet
+Oraichain Labs is thrilled to unveil the integration of Bitcoin Testnet with OWallet mobile, marking a pivotal advancement in the quest for universal compatibility. This launch is a precursor to the highly anticipated support for the Bitcoin mainnet, which will be the first proof-of-work (PoW) blockchain accessible through OWallet. This important development not only heralds a new chapter for Oraichain but also paves the way for a seamless and integrated asset management experience for users, showcasing our commitment to simplifying and enriching the interaction with digital assets.
+
+Oraichain Labs is charting a course towards revolutionizing Web3, guided by the vision of a SamORAI Experience that emphasizes ease, interoperability and transparency, only possible through the seamless fusion of blockchain and AI. The essence of our journey lies in offering streamlined asset management, improved interoperability across various blockchains, and AI-enhanced tools to simplify on-chain data analysis for all users, regardless of their expertise. Progressing forward, Oraichain Labs is proud to introduce Bitcoin Testnet support on OWallet mobile — a decisive step towards comprehensive Bitcoin integration. This advancement is set to extend BTC’s availability on OraiDEX, including Universal Swap, AMM and Futures, providing a new set of portfolio management options.
+
+## Try Bitcoin Testnet on OWallet and Earn ORAI
+oin us in refining the OWallet experience and get rewarded in the process! We’re excited to extend an invitation for our community to try out the Bitcoin Testnet on OWallet Mobile. It’s a unique opportunity to not only preview our latest integration but also to earn ORAI tokens for your valuable participation. Here’s how you can get involved:
+
+    Download and Update: Make sure you have the latest version of OWallet Mobile installed on your device.
+    Switch Networks: Easily toggle to the Bitcoin Testnet within the app.
+    Claim Test Tokens: Use the Bitcoin Testnet faucet to get some test tokens for your transactions: https://bitcoinfaucet.uo1.net/
+    Transact and Earn: Send a transaction to one of our test wallets on the Bitcoin Testnet. Please choose an address from this list randomly; Bitcoin Testnet may prevent spam transactions if there are more than 25 unconfirmed TXs at one time:
